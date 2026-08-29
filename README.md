@@ -1,7 +1,7 @@
-# 100-days-of-python-challenge
-Welcome to my 100 Days of Python Challenge!
+# Python-coding
+Welcome to my Python Coding practice!
 
-This repository documents my journey to master Python and build a strong foundation in Data Science, Machine Learning, and Deep Learning. Over the next 100 days, I will solve coding problems, complete hands-on exercises, and work through essential topics required for a Machine Learning Engineer.
+This repository documents my journey to master Python and build a strong foundation in Data Science, Machine Learning, and Deep Learning. Over the next few days, I will try to solve coding problems, complete hands-on exercises, and work through essential topics.
 
 # 🎯 Goals
 Strengthen Python programming skills
